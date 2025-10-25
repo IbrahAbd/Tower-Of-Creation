@@ -38,8 +38,11 @@ Set in a magical fantasy world, you awaken inside a mysterious wizard’s tower 
 - Make sure SteamVR is running before launching!
 
 ## Scripts 📜
-Most of the scripts used within the game were written ourselves. A youtube tutorial was only used for the Drawing Recognition where the code was built upon to add extra needed functionality.
-All of the VR interactions were handled by the Unity XR interaction toolkit which allowed player interactions with the environment. Many of the scripts included were used such as XRGrabbable.cs and XRKnob for the twisting of the staff head.
+Most of the scripts used within the game were written ourselves. A youtube tutorial was only used for the Drawing Recognition where the code was built upon to add extra needed functionality.  
+
+All of the VR interactions were handled by the Unity XR interaction toolkit which allowed player interactions within the environment.   
+
+Many of the scripts included in this toolkit were used such as XRGrabbable.cs for grabbing objects and XRKnob.cs for the twisting of the staff head.
 
 ### Drawing Recognition
 https://www.youtube.com/watch?v=GRSOrkmasMM  
@@ -65,7 +68,14 @@ The script was also appended to account for the different core elements and thei
 
 ## Assets used
 
+Most assets were acquired off the unity asset store with the exception being that of the Firing FX.  
+
+The following Synty Pack was used for most FX used throughout the experience:  
+
+https://syntystore.com/products/polygon-particle-fx-pack (Purchased from Humble Bundle for $1 in March 2025)
+
 ## Developers 🛠️
 
 - [Ibrahim Abdou](https://github.com/IbrahAbd)
 - [Mahir Moodaley](https://github.com/MrMoodles123)
+- [Zahrah Bawa]()
