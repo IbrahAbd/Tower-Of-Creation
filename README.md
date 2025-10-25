@@ -50,12 +50,14 @@ All of the VR interactions were handled by the Unity XR interaction toolkit whic
 
 Many of the scripts included in this toolkit were used such as XRGrabbable.cs for grabbing objects and XRKnob.cs for the twisting of the staff head.
 
+For the smashing of the glass pig, the assets and scripts were taken from the default unity XR example prefab and modified.
+
 ### Drawing Recognition
 https://www.youtube.com/watch?v=GRSOrkmasMM  
 https://www.youtube.com/watch?v=kfA_73npjMA&t=876s  
 
 Due to the outdated nature of the code, many changes had to be made to to the MovementRecognizer.cs script for it to work with the new Unity Engine versions.
-The script was also appended to account for the different core elements and their varying symbols.
+The script was also appended to account for the different core elements and their varying symbols. 
 
 ### Other Scipts
 
