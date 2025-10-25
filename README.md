@@ -83,5 +83,6 @@ https://syntystore.com/products/polygon-particle-fx-pack (Purchased from Humble 
 ## Developers 🛠️
 
 - [Ibrahim Abdou](https://github.com/IbrahAbd)
-- [Mahir Moodaley](https://github.com/MrMoodles123)
 - [Zahra Bawa](https://github.com/LokiDoki-Z)
+- [Mahir Moodaley](https://github.com/MrMoodles123)
+
