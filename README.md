@@ -39,10 +39,6 @@ Set in a magical fantasy world, you awaken inside a mysterious wizard’s tower 
 
 ## Controls
 
-<div align="center">
-  <img src="toc_images/controls.png" />
-</div>
-
 ## Scripts 📜
 Most of the scripts used within the game were written ourselves. A youtube tutorial was only used for the Drawing Recognition where the code was built upon to add extra needed functionality.  
 
