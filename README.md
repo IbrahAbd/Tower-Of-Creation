@@ -3,7 +3,7 @@
 </div>
 
 <br>
-
+ 
 <div align="center">
 Set in a magical fantasy world, you awaken inside a mysterious wizard’s tower as goblins prepare to attack. Guided by a talking crow, you must solve puzzles to assemble a powerful magic staff before the goblins break in. Once complete, the staff becomes your only hope for survival. Defeat the goblins or perish...
 
@@ -40,7 +40,7 @@ Set in a magical fantasy world, you awaken inside a mysterious wizard’s tower 
 ## Controls
 
 <div align="center">
-  <img src="https://github.com/IbrahAbd/Tower-Of-Creation/blob/main/toc_images/controls.png" />
+  <img src="toc_images/controls.png" />
 </div>
 
 ## Scripts 📜
