@@ -39,6 +39,7 @@ Set in a magical fantasy world, you awaken inside a mysterious wizard’s tower 
 
 ## Scripts 📜
 Most of the scripts used within the game were written ourselves. A youtube tutorial was only used for the Drawing Recognition where the code was built upon to add extra needed functionality.
+All of the VR interactions were handled by the Unity XR interaction toolkit which allowed player interactions with the environment. Many of the scripts included were used such as XRGrabbable.cs and XRKnob for the twisting of the staff head.
 
 ### Drawing Recognition
 https://www.youtube.com/watch?v=GRSOrkmasMM  
@@ -51,15 +52,18 @@ The script was also appended to account for the different core elements and thei
 
 | Script       | Purpose                  |       
 |:-------------|:-----------------------------
-| Image Resize  | Automatically resizes images  
-| Magic Staff   | Build and use staff           
-| Final Battle  | Fight goblins at tower top    
+| CoreGestureMaterialController.cs | Tracks player gestures for each magical core, updating materials and triggering effects when a core is fully calibrated. 
+| Player.cs  | Handles the player’s VR interactions, including health, core-based attacks, spell casting, and haptic feedback for each hand.        
+| RuneButton.cs  | Handles individual rune interactions in a puzzle, managing glow effects, XR selection events, and communicating presses to the puzzle manager.
+| RunePuzzleManger.cs  | Manages the rune puzzle sequence by tracking player presses, highlighting ceiling indicators, and triggering audio and chest animations upon correct completion.
+| KnobTrigger.cs | Triggers effects and activates or disables objects when an XR knob reaches its maximum value, optionally allowing reset if turned back.
+| HapticOnObjectHit.cs | Provides haptic feedback to VR controllers when the object collides with something, scaling intensity and duration based on impact strength.
+| Goblin.cs  | Controls goblin behavior, including navigation toward the player, attacking, taking damage, dying, and handling frozen or active states in the game.
+| EnemySpawner.cs  | Spawns waves of goblins at designated points, manages wave progression, enables delayed audio, and triggers game completion when all waves are defeated and the player reaches the portal.
+| AttackSound.cs | Plays a random attack sound from a list whenever the associated animation state is entered.
 
 
-
-
-
-## Assets used for maps 🗺️ , player models 🕹️, weapons 🗡️ and music 🎵
+## Assets used
 
 ## Developers 🛠️
 
