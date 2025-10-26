@@ -11,7 +11,13 @@ Set in a magical fantasy world, you awaken inside a mysterious wizard’s tower 
 <br>
 
 ⚡ Build your power, defy the odds, and face the horde! ⚡
- 
+
+ <div align="center">
+    <a href="https://drive.google.com/drive/folders/141nkooyf4jXhO3puiDnCheEiSxXfYKXD?usp=sharing" target="_blank" style="text-decoration: none; font-weight: bold; color: #00c0f0;">Download</a>
+</div>
+
+<br>
+
 </div>
 <p align="center">
 <img src="https://github.com/IbrahAbd/Tower-Of-Creation/blob/main/toc_images/1.JPG" width="400" /><img src="https://github.com/IbrahAbd/Tower-Of-Creation/blob/main/toc_images/2.JPG" width="400" />
@@ -28,14 +34,6 @@ Set in a magical fantasy world, you awaken inside a mysterious wizard’s tower 
 4. Look in the recipe book and drop ingredients into a cauldron. Stir the cauldron and insert the Staff Core into the Staff.    
 5. Place staff on a pedestal and calibrate it by drawing symbols pertaining to your chosen element.    
 6. Fight the goblins that spawn at a nearby portal by casting your chosen element's Staff attack and exit through the portal once all waves have been defeated.  
-
-
-## How To Run
-
-- The executable files can be found within the Tower of Creation folder. 
-    - The Windows executable is located in the TOC folder and called "TowerOfCreationFinal.exe"
-       - Launch it to play the game. 
-- Make sure SteamVR is running before launching!
 
 ## Controls
 
@@ -75,22 +73,27 @@ All scripts can be found in Assets/Scripts/
 | AttackSound.cs | Plays a random attack sound from a list whenever the associated animation state is entered.
 | controller.cs  | Handles the page turning interaction with the recipe book.
 
-
 ## Assets used
 
-Most assets were acquired off the unity asset store with the exception being that of the Firing FX.  
+Most assets were acquired off the unity asset store with the exception being that of the the many FX.  
 
 The following Synty Pack was used for most FX used throughout the experience:  
 
 https://syntystore.com/products/polygon-particle-fx-pack (Purchased from Humble Bundle for $1 in March 2025)
 
-## Source Files and Executable
+## Source Files
 
-Source files can be found [here](https://gitlab.cs.uct.ac.za/mdlmah007/tower-of-creation) hosted on the uct cs gitlab servers.
+Source files can be found [here](https://gitlab.cs.uct.ac.za/mdlmah007/tower-of-creation) hosted on the UCT CS Gitlab servers.
 
-The windows executable can be downloaded from [here]().
+## Build executable
 
-## Developers 🛠️
+The windows build can be downloaded from [here](https://drive.google.com/drive/folders/141nkooyf4jXhO3puiDnCheEiSxXfYKXD?usp=sharing).
+- Be sure to download the entire "TOC Build" folder
+- The Windows executable is located in the "TOC Build" folder and called "TowerOfCreationFinal.exe"
+  - Launch it to play the game. 
+- Make sure SteamVR is running before launching!
+  
+## Developers 
 
 - [Ibrahim Abdou](https://github.com/IbrahAbd)
 - [Zahra Bawa](https://github.com/LokiDoki-Z)
