@@ -58,7 +58,7 @@ Due to the outdated nature of the code, many changes had to be made to to the Mo
 The script was also appended to account for the different core elements and their varying symbols. 
 
 ### Other Scipts
-All scripts can be found in Assets/Scripts/
+All scripts can be found in Assets/scripts/
 
 | Script       | Purpose                  |       
 |:-------------|:-----------------------------
