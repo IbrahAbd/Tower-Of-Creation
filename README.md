@@ -83,6 +83,12 @@ The following Synty Pack was used for most FX used throughout the experience:
 
 https://syntystore.com/products/polygon-particle-fx-pack (Purchased from Humble Bundle for $1 in March 2025)
 
+## Source Files and Executable
+
+Source files can be found [here](https://gitlab.cs.uct.ac.za/mdlmah007/tower-of-creation) hosted on the uct cs gitlab servers.
+
+The windows executable can be downloaded from [here]().
+
 ## Developers 🛠️
 
 - [Ibrahim Abdou](https://github.com/IbrahAbd)
