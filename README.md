@@ -75,9 +75,9 @@ All scripts can be found in Assets/Scripts/
 
 ## Assets used
 
-Most assets were acquired off the unity asset store with the exception being that of the the many FX.  
+Most assets were acquired off the Unity Asset Store with the exception being that of the many particle effects.  
 
-The following Synty Pack was used for most FX used throughout the experience:  
+The following Synty Pack was used for most particle effects throughout the experience:  
 
 https://syntystore.com/products/polygon-particle-fx-pack (Purchased from Humble Bundle for $1 in March 2025)
 
