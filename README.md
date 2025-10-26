@@ -72,6 +72,7 @@ The script was also appended to account for the different core elements and thei
 | Goblin.cs  | Controls goblin behavior, including navigation toward the player, attacking, taking damage, dying, and handling frozen or active states in the game.
 | EnemySpawner.cs  | Spawns waves of goblins at designated points, manages wave progression, enables delayed audio, and triggers game completion when all waves are defeated and the player reaches the portal.
 | AttackSound.cs | Plays a random attack sound from a list whenever the associated animation state is entered.
+| controller.cs  | Handles the page turning interaction with the recipe book.
 
 
 ## Assets used
