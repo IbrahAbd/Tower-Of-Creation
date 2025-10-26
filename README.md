@@ -71,7 +71,7 @@ All scripts can be found in Assets/scripts/
 | Goblin.cs  | Controls goblin behavior, including navigation toward the player, attacking, taking damage, dying, and handling frozen or active states in the game.
 | EnemySpawner.cs  | Spawns waves of goblins at designated points, manages wave progression, enables delayed audio, and triggers game completion when all waves are defeated and the player reaches the portal.
 | AttackSound.cs | Plays a random attack sound from a list whenever the associated animation state is entered.
-| controller.cs  | Handles the page turning interaction with the recipe book.
+| controller.cs  | Custom script handling the page turning interaction with the recipe book to work with box colliders and OpenXR. Makes use of functions from the Endless Book library by echo17 for the animation of the pages.
 
 ## Assets used
 
